@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    background-color: #14c78b;
+    padding: 20px;
+    color: white;
+    width: 100%;
+    height: 34px;
+}
+.txtheader{
+    float: left;
+    margin-left: 147px;
+    margin-top: -17px;
+}
+.btn {
+    float: left;
+    background: orange;
+    margin-left: 752px;
+    margin-top: 7px;
+    width: 60px;
+    height: 26px;
+}
